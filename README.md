@@ -1,4 +1,4 @@
-# Tictactoe Android App <a>[![Open Source Love svg1]]</a>
+# Tictactoe Android App 
 
 
 
