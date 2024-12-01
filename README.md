@@ -1,4 +1,4 @@
-# Tictactoe Android App </a>[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#) (https://www.github.com/Abdullah-Sheikh/management-System/issues)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+# Tictactoe Android App </a>[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#) (https://www.github.com/Abdullah-Sheikh/management-System/issues)
 
 
 
